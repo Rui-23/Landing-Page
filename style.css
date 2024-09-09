@@ -40,6 +40,8 @@ a {
 
 .pic {
   width: 100%;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .pic img {
@@ -50,6 +52,10 @@ a {
 }
 
 @media (max-width:680px) {
+  .pic {
+    justify-content: flex-start;
+  }
+
   .section-one {
     flex-direction: column;
   }
