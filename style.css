@@ -38,6 +38,24 @@ a {
   gap: 30px;
 }
 
+.pic {
+  width: 100%;
+}
+
+.pic img {
+  width: inherit;
+  min-width: 300px;
+  max-width: 400px;
+  height: 220px;
+}
+
+@media (max-width:680px) {
+  .section-one {
+    flex-direction: column;
+  }
+  
+}
+
 .intro {
   margin-right: 90px;
 }
