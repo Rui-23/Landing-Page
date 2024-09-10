@@ -12,6 +12,6 @@ This project is a landing page template designed to look like a professional bus
 - **HTML5** for structure
 - **CSS3** with Flexbox for layout
 
-[You can view it here.] (https://rui-23.github.io/Landing-Page/)
+[You can view it here.](https://rui-23.github.io/Landing-Page/)
 
 Perfect for businesses looking to create a sleek and professional web presence!
